@@ -1,11 +1,11 @@
 {
-  "name": "widget-app",
+  "name": "paiment-widget-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration=production --base-href=/widget-app/",
+    "build:prod": "ng build --configuration=production --base-href=/paiment-widget-app/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
